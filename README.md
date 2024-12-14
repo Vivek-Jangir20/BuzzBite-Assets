@@ -45,8 +45,48 @@ BuzzBite is a **Full Stack Mobile Responsive** e-commerce platform dedicated to 
 - :cloud: **MongoDB** installed locally or a MongoDB Atlas cluster
 - :computer: **Basic understanding of Git** for version control
 
-### Installation
+![WhatsApp Image 2024-12-14 at 21 18 53_1eda5bc0](https://github.com/user-attachments/assets/8b42e90a-e06d-402c-aca4-3ca631c939bf)
+![WhatsApp Image 2024-12-14 at 21 20 53_20f8a32f](https://github.com/user-attachments/assets/eef99e43-24fb-4489-b0c0-6da55369bc75)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vivek-Jangir20/BuzzBite.git
+
+
+![WhatsApp Image 2024-12-14 at 21 23 21_ed3e8ab0](https://github.com/user-attachments/assets/d44862b9-4fb8-4f98-8788-25ca1f757bd1)
+
+
+
+![WhatsApp Image 2024-12-14 at 21 22 57_4d91df6a](https://github.com/user-attachments/assets/afc0d0f5-c0df-4d80-9e18-0d3b53f6145f)
+
+
+![WhatsApp Image 2024-12-14 at 21 26 56_70d00d2a](https://github.com/user-attachments/assets/f329526b-4ca2-46b2-a38a-85380764d17d)
+
+
+
+
+
+![WhatsApp Image 2024-12-14 at 21 27 15_743f63ca](https://github.com/user-attachments/assets/1f530b3b-8daf-4612-a236-e5440f84a2c4)
+
+
+
+
+
+![WhatsApp Image 2024-12-14 at 21 27 28_d5960d35](https://github.com/user-attachments/assets/58952805-c37b-4046-a3e1-797807ee2be0)
+
+
+
+
+![WhatsApp Image 2024-12-14 at 21 26 24_7288fd1d](https://github.com/user-attachments/assets/7bc8570e-0ba1-463d-b52f-212345995106)
+
+
+
+
+
+
+
+![WhatsApp Image 2024-12-14 at 21 24 56_a4e03ac6](https://github.com/user-attachments/assets/970c62d1-1f04-46d2-b8b8-caa83284d6b1)
+
+
+
+
+
+
+
