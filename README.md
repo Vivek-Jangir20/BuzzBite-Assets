@@ -21,29 +21,7 @@ BuzzBite is a **Full Stack Mobile Responsive** e-commerce platform dedicated to 
 - :gear: **Super Admin Functionality** for product management
 - :iphone: **Mobile Responsive Design**
 
-## Tech Stack
-- **Frontend**: 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), Intersection Observer
 
-- **Backend**: 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), 
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-- **Database**: 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- **Version Control**: 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Repository**: 
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## Getting Started
-
-### Prerequisites
-- :page_with_curl: **Node.js** (v14 or higher)
-- :cloud: **MongoDB** installed locally or a MongoDB Atlas cluster
-- :computer: **Basic understanding of Git** for version control
 
 ![WhatsApp Image 2024-12-14 at 21 18 53_1eda5bc0](https://github.com/user-attachments/assets/8b42e90a-e06d-402c-aca4-3ca631c939bf)
 ![WhatsApp Image 2024-12-14 at 21 20 53_20f8a32f](https://github.com/user-attachments/assets/eef99e43-24fb-4489-b0c0-6da55369bc75)
@@ -85,7 +63,29 @@ BuzzBite is a **Full Stack Mobile Responsive** e-commerce platform dedicated to 
 ![WhatsApp Image 2024-12-14 at 21 24 56_a4e03ac6](https://github.com/user-attachments/assets/970c62d1-1f04-46d2-b8b8-caa83284d6b1)
 
 
+## Tech Stack
+- **Frontend**: 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), Intersection Observer
 
+- **Backend**: 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), 
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- **Database**: 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- **Version Control**: 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- **Repository**: 
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Getting Started
+
+### Prerequisites
+- :page_with_curl: **Node.js** (v14 or higher)
+- :cloud: **MongoDB** installed locally or a MongoDB Atlas cluster
+- :computer: **Basic understanding of Git** for version control
 
 
 
